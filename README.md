@@ -31,8 +31,8 @@ Check the [examples](#usage) section for more!
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/resume-cover-letter-agent.git
-cd resume-cover-letter-agent
+git clone https://github.com/abdull6771/AI-Powered-Resume-Cover-Letter-Generator/tree/main
+cd AI-Powered-Resume-Cover-Letter-Generator
 ```
 
 ### 2. Install Dependencies
